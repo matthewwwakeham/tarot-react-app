@@ -1,0 +1,1944 @@
+{"data_description": "This JSON file contains data for all 78 cards of a standard Tarot deck, including the Major Arcana and the four suits of the Minor Arcana (Swords, Wands, Pentacles). Each card object includes its name, value, arcana, image, meanings, keywords, and questions for reflection.",
+"cards": [
+  {
+    "id": 1,
+    "name": "The Fool",
+    "number": "0",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m01.png",
+    "archetype": "The Divine Madman",
+    "description": "You stand on the edge of the unknown, heart pounding with excitement and fear. The path ahead is uncertain, but the leap is yours to take.",
+    "meanings": {
+      "standard": "Freeing yourself from limitation. Expressing joy and youthful vigor. Being open-minded. Taking a leap of faith. Attuning yourself to your instincts. Being eager or curious. Exploring your potential. Embracing innovation and change.",
+      "reversed": "Being gullible and naive. Taking unnecessary risks. Failing to be serious when required. Being silly or distracted. Lacking experience. Failing to honor well-established traditions and limits. Behaving inappropriately."
+    },
+    "keywords": [
+      "freedom",
+      "faith",
+      "inexperience",
+      "innocence"
+    ],
+    "questions": [
+      "What would I do if I felt free to take a leap?",
+      "How willing am I to be vulnerable and open?",
+      "How might past experiences help in this new situation?"
+    ],
+    "lwb_description": "The Fool, Mate, or Unwise Man. Court de Gebelin places it at the head of the whole series as the zero or negative which is presupposed by numeration, and as this is a simpler so also it is a better arrangement. It has been abandoned because in later times the cards have been attributed to the letters of the Hebrew alphabet, and there has been apparently some difficulty about allocating the zero symbol satisfactorily in a sequence of letters all of which signify numbers. In the present reference of the card to the letter Shin, which corresponds to 200, the difficulty or the unreason remains. The truth is that the real arrangement of the cards has never transpired. The Fool carries a wallet; he is looking over his shoulder and does not know that he is on the brink of a precipice; but a dog or other animal— some call it a tiger— is attacking him from behind, and he is hurried to his destruction unawares. Etteilla has given a justifiable variation of this card— as generally understoodin the form of a court jester, with cap, bells and motley garb. The other descriptions say that the wallet contains the bearer's follies and vices, which seems bourgeois and arbitrary."
+  },
+  {
+    "id": 2,
+    "name": "The Magician",
+    "number": "1",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m02.png",
+    "archetype" : "The Ego/The Self",
+    "description": "You hold the power to shape your reality—your hands tingle with energy, your will bends the world. Everything you need is already within you.",
+    "meanings": {
+      "standard": "Taking appropriate action. Receiving guidance from a higher power. Becoming a channel of divine will. Expressing masculine energy in appropriate and constructive ways. Being yourself in every way.",
+      "reversed": "Inflating your own ego. Abusing talents. Manipulating or deceiving others. Being too aggressive. Using cheap illusions to dazzle others. Refusing to invest the time and effort needed to master your craft. Taking shortcuts."
+    },
+    "keywords": [
+      "capability",
+      "empowerment",
+      "activity"
+    ],
+    "questions": [
+      "What am I empowered to do?",
+      "How might my abilities come into play?",
+      "To what extent am I making the most of my talents?"
+    ],
+    "lwb_description": "The Magus, Magician, or juggler, the caster of the dice and mountebank, in the world of vulgar trickery. This is the colportage interpretation, and it has the same correspondence with the real symbolical meaning that the use of the Tarot in fortune- telling has with its mystic construction according to the secret science of symbolism. I should add that many independent students of the subject, following their own lights, have produced individual sequences of meaning in respect of the Trumps Major, and their lights are sometimes suggestive, but they are not the true lights. For example, Eliphas Levi says that the Magus signifies that unity which is the mother of numbers; others say that it is the Divine Unity; and one of the latest French commentators considers that in its general sense it is the will."
+  },
+  {
+    "id": 3,
+    "name": "The High Priestess",
+    "number": "2",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m03.png",
+    "archetype" : "The Virgin/The Maiden",
+    "description": "You feel the pull of something unseen, a whisper in the silence. Secrets unfold in stillness—trust what your intuition already knows.",
+    "meanings": {
+      "standard": "Listening to your feelings and intuitions. Exploring unconventional spirituality. Keeping secrets. Being receptive. Reflecting instead of acting. Observing others. Preserving purity.",
+      "reversed": "Being aloof. Obsessing on secrets and conspiracies. Rejecting guidance from spirit or intuition. Revealing all. Ignoring gut feelings. Refusing to become involved, even when involvement is appropriate."
+    },
+    "keywords": [
+      "intuition",
+      "reflection",
+      "purity",
+      "initiation"
+    ],
+    "questions": [
+      "What might a rebel against tradition do?",
+      "What isn't being said or revealed?",
+      "What could be achieved by observing and reflecting?"
+    ],
+    "lwb_description": "The High Priestess, the Pope Joan, or Female Pontiff; early expositors have sought to term this card the Mother, or Pope's Wife, which is opposed to the symbolism. It is sometimes held to represent the Divine Law and the Gnosis, in which case the Priestess corresponds to the idea of the Shekinah. She is the Secret Tradition and the higher sense of the instituted Mysteries."
+  },
+  {
+    "id": 4,
+    "name": "The Empress",
+    "number": "3",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m04.png",
+    "archetype" : "The Mother",
+    "description": "You are a force of creation, love, and abundance. Life flows through you, nurturing all that you touch. You are the mother of possibility.",
+    "meanings": {
+      "standard": "Nurturing yourself and others. Bearing fruit. Celebrating your body. Bearing (literal or figurative) children. Reveling in luxury. Mothering those around you in positive ways. Enjoying your sexuality. Getting things done.",
+      "reversed": "Overindulging. Being greedy. Smothering someone with attention. Debilitating someone by being overprotective. Inhibiting productivity by obsessing on productivity. Being overcome by addictive behavior."
+    },
+    "keywords": [
+      "fertility",
+      "productivity",
+      "ripeness",
+      "nurturing"
+    ],
+    "questions": [
+      "What would a concerned and capable mother do?",
+      "What can I do that would emphasize growth?",
+      "How can I celebrate my own sensuality and sexuality?"
+    ],
+    "lwb_description": "The Empress, who is sometimes represented with full face, while her correspondence, the Emperor, is in profile. As there has been some tendency to ascribe a symbolical significance to this distinction, it seems desirable to say that it carries no inner meaning. The Empress has been connected with the ideas of universal fecundity and in a general sense with activity."
+  },
+  {
+    "id": 5,
+    "name": "The Emperor",
+    "number": "4",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m05.png",
+    "archetype" : "The Father",
+    "description": "You build, you protect, you rule. Strength and structure are your foundation, and through discipline, you carve out order from chaos.",
+    "meanings": {
+      "standard": "Exercising authority. Defining limits. Directing the flow of work. Communicating clear guidelines. Being in control of yourself and others. Tempering aggressive masculinity with wisdom and experience.",
+      "reversed": "Micromanaging. Crushing the creativity of others with a rigid, iron-fisted approach. Insisting on getting your own way. Assuming a dictatorial mindset. Using overt force to achieve your goals and maintain order."
+    },
+    "keywords": [
+      "authority",
+      "regulation",
+      "direction",
+      "structure"
+    ],
+    "questions": [
+      "How does the issue of control or regulation impact this situation?",
+      "What would a compassionate but strict father do?",
+      "What needs more control?"
+    ],
+    "lwb_description": "The Emperor, by imputation the spouse of the former. He is occasionally represented as wearing, in addition to his personal insignia, the stars or ribbons of some order of chivalry. I mention this to shew that the cards are a medley of old and new emblems. Those who insist upon the evidence of the one may deal, if they can, with the other. No effectual argument for the antiquity of a particular design can be drawn from the fact that it incorporates old material; but there is also none which can be based on sporadic novelties, the intervention of which may signify only the unintelligent hand of an editor or of a late draughtsman."
+  },
+  {
+    "id": 6,
+    "name": "The Hierophant",
+    "number": "5",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m06.png",
+    "archetype" : "The Guardian/The Church/Faith",
+    "description": "You walk the path of wisdom, guided by tradition and knowledge. The lessons of the past shape your future—will you follow or forge your own way?",
+    "meanings": {
+      "standard": "Teaching or guiding others. Searching for the truth. Asking for guidance from a higher power. Acknowledging the wisdom and experience of others. Taking vows. Engaging in heartfelt rituals. Volunteering.",
+      "reversed": "Using experience as a means of manipulating or misguiding others. Being dogmatic. Favoring tradition over what is expedient or necessary. Going through the motions of empty rituals. Concealing wisdom. Restricting access to spiritual truths or the gods."
+    },
+    "keywords": [
+      "guidance",
+      "knowledge",
+      "revelation",
+      "belief"
+    ],
+    "questions": [
+      "What role might tradition or religion play in this situation?",
+      "Who authored the rules? Who enforces them? Why?",
+      "How might an experienced guide impact this situation?"
+    ],
+    "lwb_description": "The High Priest or Hierophant, called also Spiritual Father, and more commonly and obviously the Pope. It seems even to have been named the Abbot, and then its correspondence, the High Priestess, was the Abbess or Mother of the Convent. Both are arbitrary names. The insignia of the figures are papal, and in such case the High Priestess is and can be only the Church, to whom Pope and priests are married by the spiritual rite of ordination. I think, however, that in its primitive form this card did not represent the Roman Pontiff."
+  },
+  {
+    "id": 7,
+    "name": "The Lovers",
+    "number": "6",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m07.png",
+    "archetype" : "The Lover/Sexual Awakening",
+    "description": "You stand in the fire of connection, pulled between passion and choice. The heart knows what it wants—do you have the courage to follow?",
+    "meanings": {
+      "standard": "Being in love. Showing your love to others. Expressing passion or romantic feelings. Aligning yourself with groups or like-minded others. Bringing people together. Making well-informed decisions.",
+      "reversed": "Debilitating passion. Allowing an unhealthy desire for love to motivate destructive behavior. Disrupting unity. Working against the best interests of those who care about you. Ill-informed decisions."
+    },
+    "keywords": [
+      "love",
+      "passion",
+      "unity",
+      "choice"
+    ],
+    "questions": [
+      "What guides my choices?",
+      "What is my heart leading me to do?",
+      "How might this decision transform me as a person?"
+    ],
+    "lwb_description": "The Lovers or Marriage. This symbol has undergone many variations, as might be expected from its subject. In the eighteenth century form, by which it first became known to the world of archaeological research, it is really a card of married life, shewing father and mother, with their child placed between them; and the pagan Cupid above, in the act of flying his shaft, is, of course, a misapplied emblem. The Cupid is of love beginning rather than of love in its fulness, guarding the fruit thereof. The card is said to have been entitled Simulacyum fidei, the symbol of conjugal faith, for which the rainbow as a sign of the covenant would have been a more appropriate concomitant. The figures are also held to have signified Truth, Honour and Love, but I suspect that this was, so to speak, the gloss of a commentator moralizing. It has these, but it has other and higher aspects."
+  },
+  {
+    "id": 8,
+    "name": "The Chariot",
+    "number": "7",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m08.png",
+    "archetype" : "The Victorious Hero",
+    "description": "You grip the reins of your destiny, driven by sheer will. Victory is within reach, but only if you stay in control.",
+    "meanings": {
+      "standard": "Breaking through barriers. Moving forward with confidence and authority. Reaching the pinnacle of success. Basking in the glory of achievement. Guiding an effort to total victory. Establishing yourself as a worthy leader.",
+      "reversed": "Resting on laurels. Riding roughshod over the feelings or expectations of others. Focusing more on past successes than future opportunities. Failing to rein in impulsive behavior."
+    },
+    "keywords": [
+      "advancement",
+      "victory",
+      "triumph",
+      "success"
+    ],
+    "questions": [
+      "To what extent have I arrived? What will my next challenge be?",
+      "How can I use past achievements to their best advantage?",
+      "What would the criteria for real and meaningful success be?"
+    ],
+    "lwb_description": "The Chariot. This is represented in some extant codices as being drawn by two sphinxes, and the device is in consonance with the symbolism, but it must not be supposed that such was its original form; the variation was invented to support a particular historical hypothesis. In the eighteenth century white horses were yoked to the car. As regards its usual name, the lesser stands for the greater; it is really the King in his triumph, typifying, however, the victory which creates kingship as its natural consequence and not the vested royalty of the fourth card. M. Court de Gebelin said that it was Osiris Triumphing, the conquering sun in spring-time having vanquished the obstacles of winter. We know now that Osiris rising from the dead is not represented by such obvious symbolism. Other animals than horses have also been used to draw the currus triumphalis, as, for example, a lion and a leopard."
+  },
+  {
+    "id": 9,
+    "name": "Strength",
+    "number": "8",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m09.png",
+    "archetype" : "The Law",
+    "description": "You stare the beast in the eye, unafraid. Power is not force—it is patience, compassion, and the quiet fire within.",
+    "meanings": {
+      "standard": "Imposing restrictions on yourself for your own benefit. Bringing your passions under the control of reason. Resisting impulses that work against your best interests. Taking bold action.",
+      "reversed": "Indulging weakness, even when you know it will damage your health and happiness. Languishing in addiction. Allowing your instincts to tame and conquer you. Failing to take a stand when necessary."
+    },
+    "keywords": [
+      "discipline",
+      "boldness",
+      "self-discipline",
+      "power",
+      "vitality"
+    ],
+    "questions": [
+      "To what extent is your life (or work) balanced?",
+      "How can you achieve greater objectivity?",
+      "What course of action would be fair to everyone concerned?"
+    ],
+    "lwb_description": "Fortitude. This is one of the cardinal virtues, of which I shall speak later. The female figure is usually represented as closing the mouth of a lion. In the earlier form which is printed by Court de Gebelin, she is obviously opening it. The first alternative is better symbolically, but either is an instance of strength in its conventional understanding, and conveys the idea of mastery. It has been said that the figure represents organic force, moral force and the principle of all force."
+  },
+  {
+    "id": 10,
+    "name": "The Hermit",
+    "number": "9",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m10.png",
+    "archetype" : "The Holy Man",
+    "description": "You retreat from the noise, seeking the truth that only solitude reveals. The answers are not out there—they are inside you, waiting.",
+    "meanings": {
+      "standard": "Becoming or seeking out a guru. Going on a retreat. Recharging spiritual or creative batteries. Lighting the way for those with less experience. Stepping back to gain perspective.",
+      "reversed": "Being a loner. Fearing contact with others. Becoming a know-it-all. Inflating claims of expertise. Hiding your skills and talents out of fear of unworthiness."
+    },
+    "keywords": [
+      "solitude",
+      "experience",
+      "stillness",
+      "withdrawal"
+    ],
+    "questions": [
+      "What would happen if I simply withdrew and took no action?",
+      "How can I get some perspective on the situation?",
+      "Who has walked this path before me? How can I enlist his or her help?"
+    ],
+    "lwb_description": "The Hermit, as he is termed in common parlance, stands next on the list; he is also the Capuchin, and in more philosophical language the Sage. He is said to be in search of that Truth which is located far off in the sequence, and of justice which has preceded him on the way. But this is a card of attainment, as we shall see later, rather than a card of quest. It is said also that his lantern contains the Light of Occult Science and that his staff is a Magic Wand. These interpretations are comparable in every respect to the divinatory and fortune-telling meanings with which I shall have to deal in their turn. The diabolism of both is that they are true after their own manner, but that they miss all the high things to which the Greater Arcana should be allocated. It is as if a man who knows in his heart that all roads lead to the heights, and that God is at the great height of all, should choose the way of perdition or the way of folly as the path of his own attainment. Eliphas Levi has allocated this card to Prudence, but in so doing he has been actuated by the wish to fill a gap which would otherwise occur in the symbolism. The four cardinal virtues are necessary to an idealogical sequence like the Trumps Major, but they must not be taken only in that first sense which exists for the use and consolation of him who in these days of halfpenny journalism is called the man in the street. In their proper understanding they are the correlatives of the counsels of perfection when these have been similarly re-expressed, and they read as follows: (a) Transcendental justice, the counter-equilibrium of the scales, when they have been overweighted so that they dip heavily on the side of God. The corresponding counsel is to use loaded dice when you play for high stakes with Diabolus. The axiom is Aut Deus, aut nihil, (b) Divine Ecstacy, as a counterpoise to something called Temperance, the sign of which is, I believe, the extinction of lights in the tavern. The corresponding counsel is to drink only of new wine in the Kingdom of the Father, because God is all in all. The axiom is that man being a reasonable being must get intoxicated with God; the imputed case in point is Spinoza, (c) The state of Royal Fortitude, which is the state of a Tower of Ivory and a House of Gold, but it is God and not the man who has become Turris fortitudinis a facie inimici, and out of that House the enemy has been cast. The corresponding counsel is that a man must not spare himself even in the presence of death, but he must be certain that his sacrifice shall be-of any open course-the best that will ensure his end. The axiom is that the strength which is raised to such a degree that a man dares lose himself shall shew him how God is found, and as to such refuge— dare therefore and learn, (d) Prudence is the economy which follows the line of least resistance, that the soul may get back whence it came. It is a doctrine of divine parsimony and conservation of energy, because of the stress, the terror and the manifest impertinences of this life. The corresponding counsel is that true prudence is concerned with the one thing needful, and the axiom is: Waste not, want not. The conclusion of the whole matter is a business proposition founded on the law of exchange: You cannot help getting what you seek in respect of the things hat are Divine: it is the law of supply and demand. I have mentioned these few matters at this point for two simple reasons: (a) because in proportion to the impartiality of the mind it seems sometimes more difficult to determine whether it is vice or vulgarity which lays waste the present world more piteously; (b) because in order to remedy the imperfections of the old notions it is highly needful, on occasion, to empty terms and phrases of their accepted significance, that they may receive a new and more adequate meaning."
+  },
+  {
+    "id": 11,
+    "name": "Wheel of Fortune",
+    "number": "10",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m11.png",
+    "archetype" : "The Fates/Destiny",
+    "description": "You are caught in the ever-turning cycle of fate. Up, down, rise, fall—nothing stays the same forever. Will you fight it or flow with it?",
+    "meanings": {
+      "standard": "Allowing events to unfold. Seeing the larger pattern in everyday events. Trusting your luck. Watching for cycles. Believing that \"what goes around, comes around\".",
+      "reversed": "Losing money gambling. Refusing to do your part to bring a plan to fruition. Taking a fatalistic approach to life. Fighting the natural course of events."
+    },
+    "keywords": [
+      "luck",
+      "randomness",
+      "cycles",
+      "karma",
+      "fate",
+      "revolution"
+    ],
+    "questions": [
+      "How does this challenge fit into a larger pattern?",
+      "What role does luck play in my circumstances?",
+      "What can I control? How should I know when to relinquish control?"
+    ],
+    "lwb_description": "The Wheel of Fortune. There is a current Manual of Cartomancy which has obtained a considerable vogue in England, and amidst a great scattermeal of curious things to no purpose has intersected a few serious subjects. In its last and largest edition it treats in one section of the Tarot; which— if I interpret the author rightly— it regards from beginning to end as the Wheel of Fortune, this expression being understood in my own sense. I have no objection to such an inclusive though conventional description; it obtains in all the worlds, and I wonder that it has not been adopted previously as the most appropriate name on the side of common fortune-telling. It is also the title of one of the Trumps Major— that indeed of our concern at the moment, as my sub-title shews. Of recent years this has suffered many fantastic presentations and one hypothetical reconstruction which is suggestive in its symbolism. The wheel has seven radii; in the eighteenth century the ascending and descending animals were really of nondescript character, one of them having a human head. At the summit was another monster with the body of an indeterminate beast, wings on shoulders and a crown on head. It carried two wands in its claws. These are replaced in the reconstruction by a Hermanubis rising with the wheel, a Sphinx couchant at the summit and a Typhon on the descending side. Here is another instance of an invention in support of a hypothesis; but if the latter be set aside the grouping is symbolically correct and can pass as such."
+  },
+  {
+    "id": 12,
+    "name": "Justice",
+    "number": "11",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m12.png",
+    "archetype" : "The Id",
+    "description": "You stand in the light of truth, every action weighed, every decision echoing into the future. Do you seek fairness, or only what serves you?",
+    "meanings": {
+      "standard": "Making an objective decision. Weighing an issue carefully before taking action. Appropriately scaling your reaction to a situation. Getting all the facts. Considering evidence. Deliberating.",
+      "reversed": "Delivering harsh criticism. Obsessing on rules and regulations. Playing by the book even when it is destructive or counterproductive to do so. Confusing snap decisions with timely action. Playing favorites."
+    },
+    "keywords": [
+      "balance",
+      "law",
+      "fairness",
+      "objectivity"
+    ],
+    "questions": [
+      "How can I enhance my self-discipline?",
+      "What behaviors tempt me? How can I resist?",
+      "What instincts do I continue to struggle with today?"
+    ],
+    "lwb_description": "Justice. That the Tarot, though it is of all reasonable antiquity, is not of time immemorial, is shewn by this card, which could have been presented in a much more archaic manner. Those, however, who have gifts of discernment in matters of this kind will not need to be told that age is in no sense of the essence of the consideration; the Rite of Closing the Lodge in the Third Craft Grade of Masonry may belong to the late eighteenth century, but the fact signifies nothing; it is still the summary of all the instituted and official Mysteries. The female figure of the eleventh card is said to be Astraea, who personified the same virtue and is represented by the same symbols. This goddess notwithstanding, and notwithstanding the vulgarian Cupid, the Tarot is not of Roman mythology, or of Greek either. Its presentation of justice is supposed to be one of the four cardinal virtues included in the sequence of Greater Arcana; but, as it so happens, the fourth emblem is wanting, and it became necessary for the commentators to discover it at all costs. They did what it was possible to do, and yet the laws of research have never succeeded in extricating the missing Persephone under the form of Prudence. Court de Gebelin attempted to solve the difficulty by a tour de force, and believed that he had extracted what he wanted from the symbol of the Hanged Man— wherein he deceived himself. The Tarot has, therefore, its justice, its Temperance also and its Fortitude, but-owing to a curious omission— it does not offer us any type of Prudence, though it may be admitted that, in some respects, the isolation of the Hermit, pursuing a solitary path by the light of his own lamp, gives, to those who can receive it, a certain high counsel in respect of the via prudentice."
+  },
+  {
+    "id": 13,
+    "name": "The Hanged Man",
+    "number": "12",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m13.png",
+    "archetype" : "The Traitor",
+    "description": "You surrender, hanging in stillness, and the world shifts around you. What once seemed impossible is now clear—but only if you let go.",
+    "meanings": {
+      "standard": "Seeing growth opportunities in unpleasant events. Experiencing a dramatic change in personal perspective. Making the best of an unforeseen change in your life or work. Suspending disbelief. Making sacrifices.",
+      "reversed": "Being untrue to yourself and your values. Refusing to make sacrifices when appropriate. Refusing to adapt to new situations. Blaming others. Profiting at the expense of others."
+    },
+    "keywords": [
+      "enlightenment",
+      "sacrifice",
+      "perspective",
+      "suspension",
+      "reversals"
+    ],
+    "questions": [
+      "How can I radically alter my perspective?",
+      "How might being stuck actually be a blessing in disguise?",
+      "How can I help myself see the glass as half full?"
+    ],
+    "lwb_description": "The Hanged Man. This is the symbol which is supposed to represent Prudence, and Eliphas Levi says, in his most shallow and plausible manner, that it is the adept bound by his engagements. The figure of a man is suspended head- downwards from a gibbet, to which he is attached by a rope about one of his ankles. The arms are bound behind him, and one leg is crossed over the other. According to another, and indeed the prevailing interpretation, he signifies sacrifice, but all current meanings attributed to this card are cartomancists' intuitions, apart from any real value on the symbolical side. The fortune-tellers of the eighteenth century who circulated Tarots, depict a semifeminine youth in jerkin, poised erect on one foot and loosely attached to a short stake driven into the ground."
+  },
+  {
+    "id": 14,
+    "name": "Death",
+    "number": "13",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m14.png",
+    "archetype" : "Death",
+    "description": "You feel the weight of an ending, but in the ashes, something stirs. This is not destruction—it is transformation.",
+    "meanings": {
+      "standard": "Bringing an unpleasant phase of life to an end. Recognizing and celebrating the conclusion of something. Putting bad habits to rest. Becoming a new person. Leaving one person, place, or thing for another. Letting go.",
+      "reversed": "Obsessing on death and dying. Refusing to give up old habits or unhealthy relationships. Insisting that everything and everyone should stay the same forever. Failing to take good care of yourself."
+    },
+    "keywords": [
+      "ending",
+      "conclusion",
+      "transition",
+      "passage",
+      "departure"
+    ],
+    "questions": [
+      "What needs to end?",
+      "How might an ending actually be a blessing in this situation?",
+      "What's next?"
+    ],
+    "lwb_description": "Death. The method of presentation is almost invariable, and embodies a bourgeois form of symbolism. The scene is the field of life, and amidst ordinary rank vegetation there are living arms and heads protruding from the ground. One of the heads is crowned, and a skeleton with a great scythe is in the act of mowing it. The transparent and unescapable meaning is death, but the alternatives allocated to the symbol are change and transformation. Other heads have been swept from their place previously, but it is, in its current and patent meaning, more especially a card of the death of Kings. In the exotic sense it has been said to signify the ascent of the spirit in the divine spheres, creation and destruction, perpetual movement, and so forth."
+  },
+  {
+    "id": 15,
+    "name": "Temperance",
+    "number": "14",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m15.png",
+    "archetype" : "The Mediator",
+    "description": "You find balance in the in-between, where opposites blend into harmony. The magic is not in extremes, but in the space between.",
+    "meanings": {
+      "standard": "Bringing opposites together. Moderating your actions or emotions. Finding middle ground. Reaching compromises. Synthesizing solutions that please everyone involved. Using the old to make something new.",
+      "reversed": "Going to extremes. Disrupting group efforts. Ignoring healthy approaches to life. Becoming an addict. Practicing gluttony. Tearing something or someone apart. Breaking alliances."
+    },
+    "keywords": [
+      "blending",
+      "synthesis",
+      "mediation",
+      "combination",
+      "harmony"
+    ],
+    "questions": [
+      "How can I avoid extremes?",
+      "What does everyone involved have in common?",
+      "How might combining familiar things help me create something new?"
+    ],
+    "lwb_description": "Temperance. The winged figure of a female— who, in opposition to all doctrine concerning the hierarchy of angels, is usually allocated to this order of ministering spirits— is pouring liquid from one pitcher to another. In his last work on the Tarot, Dr. Papus abandons the traditional form and depicts a woman wearing an Egyptian head-dress. The first thing which seems clear on the surface is that the entire symbol has no especial connexion with Temperance, and the fact that this designation has always obtained for the card offers a very obvious instance of a meaning behind meaning, which is the title in chief to consideration in respect of the Tarot as a whole."
+  },
+  {
+    "id": 16,
+    "name": "The Devil",
+    "number": "15",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m16.png",
+    "archetype" : "The Shadow, The Other",
+    "description": "You are bound by desires, by illusions, by the chains you refuse to see. But the truth? The shackles are unlocked—you only have to let go.",
+    "meanings": {
+      "standard": "Appreciating the luxuries that life has to offer. Being comfortable in your own skin. Enjoying your sexuality. Splurging on an expensive personal item. Embracing the fact that everyone has a darker side. Dealing with unhealthy impulses in healthy ways.",
+      "reversed": "Putting excessive emphasis on appearances. Always wanting more. Valuing possessions more than people or relationships. Allowing base instincts to govern your life. Being selfish. Attributing your own dark impulses to outside forces or other people."
+    },
+    "keywords": [
+      "shadow",
+      "materialism",
+      "bondage",
+      "delusion"
+    ],
+    "questions": [
+      "What enslaves me? How can I set myself free?",
+      "How can I re-evaluate the importance I assign to material things?",
+      "To what extent do my cravings define me?"
+    ],
+    "lwb_description": "The Devil. In the eighteenth century this card seems to have been rather a symbol of merely animal impudicity. Except for a fantastic head-dress, the chief figure is entirely naked; it has batlike wings, and the hands and feet are represented by the claws of a bird. In the right hand there is a sceptre terminating in a sign which has been thought to represent fire. The figure as a whole is not particularly evil; it has no tail, and the commentators who have said that the claws are those of a harpy have spoken at random. There is no better ground for the alternative suggestion that they are eagle's claws. Attached, by a cord depending from their collars, to the pedestal on which the figure is mounted, are two small demons, presumably male and female. These are tailed, but not winged. Since 1856 the influence of Eliphas Levi and his doctrine of occultism has changed the face of this card, and it now appears as a pseudo-Baphometic figure with the head of a goat and a great torch between the horns; it is seated instead of erect, and in place of the generative organs there is the Hermetic caduceus. In Le Tarot Divinatoire of Papus the small demons are replaced by naked human beings, male and female ' who are yoked only to each other. The author may be felicitated on this improved symbolism."
+  },
+  {
+    "id": 17,
+    "name": "The Tower",
+    "value": "16",
+    "arcana": "Major Arcana",
+    "img": "m17.png",
+    "archetype": "You watch it all come crashing down, your world torn apart in an instant. But in destruction, there is freedom—the chance to rebuild.",
+    "description": "You watch it all come crashing down, your world torn apart in an instant. But in destruction, there is freedom—the chance to rebuild.",
+    "meanings": {
+      "standard": "Breaking out of old, confining habits and mindsets. Clearing the way for new growth. Dispelling the influence of an inflated ego. Getting back to basics. Stripping away harmful illusions. Receiving sudden insight.",
+      "reversed": "Clinging to traditions that repress growth. Engaging in willful blindness. Rejecting evidence that change is needed. Ignoring guidance from a higher power. Maliciously engaging in destructive behavior."
+    },
+    "keywords": [
+      "demolition",
+      "upheaval",
+      "deconstruction",
+      "disaster",
+      "destruction"
+    ],
+    "questions": [
+      "How might the current situation dramatically alter my perspective?",
+      "How might this loss open the door for new growth?",
+      "What attitudes need to be struck down before I proceed?"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "The Star",
+    "number": "17",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m18.png",
+    "archetype" : "The Heavenly Guide",
+    "description": "You breathe, the night sky stretching infinite above you. Hope flickers like starlight—no matter how dark, you are never lost.",
+    "meanings": {
+      "standard": "Hoping for the best. Believing good things happen to good people. Seeing events in the best possible light. Adopting a generous spirit. Seeking guidance from above. Embracing possibility over probability.",
+      "reversed": "Denying unpleasant truths. Denying personal accountability and saying, \"Things just happen!\". Ignoring signs and omens. Preferring illusion to reality. Spreading pessimism and stinginess of spirit."
+    },
+    "keywords": [
+      "hope",
+      "optimism",
+      "openness",
+      "certainty",
+      "faith",
+      "longing",
+      "truth"
+    ],
+    "questions": [
+      "What would my higher power direct me to do?",
+      "How can I be less self-conscious and guarded?",
+      "How can I better attune myself to the abundance of life's blessings?"
+    ],
+    "lwb_description": "The Star, Dog-Star, or Sirius, also called fantastically the Star of the Magi. Grouped about it are seven minor luminaries, and beneath it is a naked female figure, with her left knee upon the earth and her right foot upon the water. She is in the act of pouring fluids from two vessels. A bird is perched on a tree near her; for this a butterfly on a rose has been substituted in some later cards. So also the Star has been called that of Hope. This is one of the cards which Court de Gebelin describes as wholly Egyptian-that is to say, in his own reverie."
+  },
+  {
+    "id": 19,
+    "name": "The Moon",
+    "number": "18",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m19.png",
+    "archetype" : "The Holy Feminine/The Crone",
+    "description": "You wander through shadows, lost in illusion and doubt. But even in the dark, your instincts whisper—trust them.",
+    "meanings": {
+      "standard": "Enjoying healthy fantasies and daydreams. Using your imagination. Practicing magic or celebrating the magic of everyday life. Attuning yourself to the cycles of nature. Embracing the unknown.",
+      "reversed": "Becoming unable to separate fantasy from reality. Suffering from delusions. Losing your appreciation for the fantastic or magical. Adopting a ruthlessly logical mindset. Failing to appreciate life's mysteries."
+    },
+    "keywords": [
+      "mystery",
+      "fantasy",
+      "imagination",
+      "dreams",
+      "uncertainty"
+    ],
+    "questions": [
+      "How can I face my fears and move forward?",
+      "What helpers can serve me as guides through my personal darkness?",
+      "How can I deal with the unknown in healthy ways?"
+    ],
+    "lwb_description": "The Moon. Some eighteenth- century cards shew the luminary on its waning side; in the debased edition of Etteilla, it is the moon at night in her plenitude, set in a heaven of stars; of recent years the moon is shewn on the side of her increase. In nearly all presentations she is shining brightly and shedding the moisture of fertilizing dew in great drops. Beneath there are two towers, between which a path winds to the verge of the horizon. Two dogs, or alternatively a wolf and dog, are baying at the moon, and in the foreground there is water, through which a crayfish moves towards the land."
+  },
+  {
+    "id": 20,
+    "name": "The Sun",
+    "number": "20",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m20.png",
+    "archetype" : "The Holy Masculine",
+    "description": "You step into the light, warmth on your skin, joy spilling from your heart. Here, there is no doubt—only life, only radiance.",
+    "meanings": {
+      "standard": "Seeing things clearly. Experiencing intense joy. Celebrating your own successes. Knowing you're good at what you do. Gaining recognition for your personal genius.",
+      "reversed": "Being dazzled by your own accomplishments. Becoming absorbed in your own self-image. Feeling rushed and distracted. Exerting yourself to the point of exhaustion. Overstating your abilities or misrepresenting your achievements."
+    },
+    "keywords": [
+      "joy",
+      "brilliance",
+      "validation",
+      "attention",
+      "energy"
+    ],
+    "questions": [
+      "How can I take best advantage of the attention coming my way?",
+      "What are my highest spiritual goals?",
+      "How can I avoid being bedazzled by the energy swirling around me?"
+    ],
+    "lwb_description": "The Sun. The luminary is distinguished in older cards by chief rays that are waved and salient alternately and by secondary salient rays. It appears to shed its influence on earth not only by light and heat, but-like the moon-by drops of dew. Court de Gebelin termed these tears of gold and of pearl, just as he identified the lunar dew with the tears of Isis. Beneath the dog-star there is a wall suggesting an enclosure-as it might be, a walled garden- wherein are two children, either naked or lightly clothed, facing a water, and gambolling, or running hand in hand. Eliphas Levi says that these are sometimes replaced by a spinner unwinding destinies, and otherwise by a much better symbol-a naked child mounted on a white horse and displaying a scarlet standard."
+  },
+  {
+    "id": 21,
+    "name": "Judgement",
+    "number": "21",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m21.png",
+    "archetype" : "Resurrection",
+    "description": "You hear the call, deep and undeniable. The past falls away, and you rise, transformed. Are you ready to become who you were meant to be?",
+    "meanings": {
+      "standard": "Receiving a wake-up call. Discovering a new purpose in life. Becoming totally and completely yourself. Receiving a well-deserved reward. Passing an evaluation or examination. Welcoming the start of a new phase of life.",
+      "reversed": "Being weighed in the balances and found wanting. Failing to measure up to a well-defined standard. Being caught goofing off or misbehaving. Failing to prepare for an examination you know is coming. Rejecting an opportunity to reinvent yourself."
+    },
+    "keywords": [
+      "revival",
+      "renewal",
+      "resurrection",
+      "evaluation",
+      "invitation"
+    ],
+    "questions": [
+      "What is the main thing I need to realize about myself?",
+      "In what way might the universe be trying to get my attention?",
+      "If I were to reinvent myself, what would I become?"
+    ],
+    "lwb_description": "The Last judgment. I have spoken of this symbol already, the form of which is essentially invariable, even in the Etteilla set. An angel sounds his trumpet per sepulchra regionum, and the dead arise. It matters little that Etteilla omits the angel, or that Dr. Papus substitutes a ridiculous figure, which is, however, in consonance with the general motive of that Tarot set which accompanies his latest work. Before rejecting the transparent interpretation of the symbolism which is conveyed by the name of the card and by the picture which it presents to the eye, we should feel very sure of our ground. On the surface, at least, it is and can be only the resurrection of that triad— father, mother, child- whom we have met with already in the eighth card. M. Bourgeat hazards the suggestion that esoterically it is the symbol of evolution— of which it carries none of the signs. Others say that it signifies renewal, which is obvious enough; that it is the triad of human life; that it is the 'generative force of the earth... and eternal life.' Court de Gebelin makes himself impossible as usual, and points out that if the grave-stones were removed it could be accepted as a symbol of creation."
+  },
+  {
+    "id": 22,
+    "name": "The World",
+    "number": "22",
+    "arcana": "Major Arcana",
+    "suit": null,
+    "img": "m22.png",
+    "archetype" : "Enlightenment",
+    "description": "You have arrived. The journey is complete, the lesson learned, the cycle closed. But every ending births a new beginning—what comes next?",
+    "meanings": {
+      "standard": "Having it all. Knowing and loving yourself as completely as possible. Seeing the interconnection of all things and people. Enhancing your perspective. Living life to its fullest. Understanding the meaning of life.",
+      "reversed": "Allowing greed and envy to prevent you from enjoying what you do possess. Failing to see the larger design in ordinary events. Believing that everything that exists can be touched, counted, or measured. Failing to see the divine reflected in those around you."
+    },
+    "keywords": [
+      "wholeness",
+      "integration",
+      "totality",
+      "completeness",
+      "fullness"
+    ],
+    "questions": [
+      "For me, what would having it all mean?",
+      "How aware am I of my own connectedness to the world around me?",
+      "What keeps me from having it all right now, today?"
+    ],
+    "lwb_description": "The World, the Universe, or Time. The four living creatures of the Apocalypse and Ezekiel's vision, attributed to the evangelists in Christian symbolism, are grouped about an elliptic garland, as if it were a chain of flowers intended to symbolize all sensible things; within this garland there is the figure of a woman, whom the wind has girt about the loins with a light scarf, and this is all her vesture. She is in the act of dancing, and has a wand in either hand. It is eloquent as an image of the swirl of the sensitive life, of joy attained in the body, of the soul's intoxication in the earthly paradise, but still guarded by the Divine Watchers, as if by the powers and the graces of the Holy Name, Tetragammaton, JVHV— those four ineffable letters which are sometimes attributed to the mystical beasts. Eliphas Levi calls the garland a crown, and reports that the figure represents Truth. Dr. Papus connects it with the Absolute and the realization of the Great Work; for yet others it is a symbol of humanity and the eternal reward of a life that has been spent well. It should be noted that in the four quarters of the garland there are four flowers distinctively marked. According to P. Christian, the garland should be formed of roses, and this is the kind of chain which Eliphas Levi says is less easily broken than a chain of iron. Perhaps by antithesis, but for the same reason, the iron crown of Peter may he more lightly on the heads of sovereign pontiffs than the crown of gold on kings."
+  },
+  {
+    "id": 23,
+    "name": "Ace of Cups",
+    "value": "1",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c01.png",
+    "description": "",
+    "meanings": {
+      "standard": "Trusting your feelings. Opening yourself to spirit. Accepting and returning affection. Getting in touch with what motivates you. Taking advantage of an opportunity to express love to others. Listening to the still, small voice.",
+      "reversed": "Hiding your feelings. Spurning an opportunity to love or be loved. Numbing yourself to spiritual yearnings. Rejecting the counsel of your heart. Becoming a puppet of your own emotions. Indulging in hysteria or obsession."
+    },
+    "keywords": [
+      "intuition",
+      "spirituality",
+      "affection",
+      "motivation"
+    ],
+    "questions": [
+      "What am I feeling right now?",
+      "How would I go about opening myself to spiritual guidance?",
+      "What motivates me the most - pleasure or pain? Why?"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Two of Cups",
+    "value": "2",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c02.png",
+    "description": "",
+    "meanings": {
+      "standard": "Being drawn to someone. Longing for someone or something. Acting on your desires. Discovering a feeling is mutual. Doing what makes you feel good. Merging. Healing broken ties. Admitting two people feel differently about each other and moving on.",
+      "reversed": "Burning bridges. Becoming caught up in unhealthy codependency. Shutting out anyone but your chosen few. Obsessing on someone who does not return your affections. Despairing over finding \"The One\". Deceiving yourself about your true orientation."
+    },
+    "keywords": [
+      "union",
+      "attraction",
+      "combination",
+      "affection"
+    ],
+    "questions": [
+      "How can I make sure that what I'm feeling is mutual?",
+      "When was the last time I felt 'in love' with someone or something?",
+      "What do you need in order to feel emotionally stable?"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Three of Cups",
+    "value": "3",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c03.png",
+    "description": "",
+    "meanings": {
+      "standard": "Celebrating your feelings or connections with others. Expressing joy through song, dance, or physical affection. Working together with others who share your feelings. Performing acts of service as a way of saying, \"I love you\". Embracing unconventional romantic arrangements.",
+      "reversed": "Mistaking giddiness for true affection. Being dominated by manic emotions. Expecting everyone to always feel the same way you do. Demanding unreasonable support from friends or family. Partying to a dangerous or unhealthy extent."
+    },
+    "keywords": [
+      "celebration",
+      "expression",
+      "community",
+      "friendliness"
+    ],
+    "questions": [
+      "What's worth celebrating in my life?",
+      "How can I demonstrate my feelings in appropriate ways?",
+      "What can I do to show my partner how I really feel?"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Four of Cups",
+    "value": "4",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c04.png",
+    "description": "",
+    "meanings": {
+      "standard": "Maintaining your emotional stability. Refusing to give in to overwhelming emotions. Appreciating what you have and refusing to take it for granted. Seeing the value of long-term commitments.",
+      "reversed": "Being bored. Daydreaming at the expense of your work. Refusing to be engaged by opportunity. Taking people and relationships for granted. Ignoring romantic or spiritual opportunities. Spurning inspiration. Feeling everything should stay \"just like it is\"."
+    },
+    "keywords": [
+      "boredom",
+      "listlessness",
+      "lethargy",
+      "stability",
+      "ingratitude"
+    ],
+    "questions": [
+      "How can I use this \"downtime\" to my best advantage?",
+      "How can I show my partner that I don't take him or her for granted?",
+      "To what extent is my mood blinding me to new opportunities?"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Five of Cups",
+    "value": "5",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c05.png",
+    "description": "",
+    "meanings": {
+      "standard": "Acknowledging loss and moving on. Focusing on how the glass remains \"half-full\". Finding the silver lining in a dark cloud. Recognizing that loss is a natural part of life. Embracing healthy grief. Learning lessons from harsh consequences.",
+      "reversed": "Wallowing in unhealthy grief or self-pity. Refusing to move on and let go. Clinging to the past. Obsessing on past lives and past loves. Failing to live in the present. Beating yourself up over past mistakes. Allowing fear of failure to limit your efforts."
+    },
+    "keywords": [
+      "loss",
+      "despair",
+      "re-evaluation",
+      "regret",
+      "uncertainty",
+      "repentance"
+    ],
+    "questions": [
+      "How do I tend to deal with loss?",
+      "What life lesson might I be learning now?",
+      "How can I shift my attention from the past to the future?"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Six of Cups",
+    "value": "6",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c06.png",
+    "description": "",
+    "meanings": {
+      "standard": "Donating your time and talents to others. Taking satisfaction in knowing how your efforts will aid others. Creating a \"win-win\" scenario. Giving even when you know repayment is not possible. Being motivated to do a good deed.",
+      "reversed": "Linking your sense of self-worth to the appraisals of others. Striving to appear more needy than you really are. Taking undeserved or unmerited charity. Bragging about your charitable efforts. Profiteering in times of distress. Refusing to share a burden."
+    },
+    "keywords": [
+      "charity",
+      "sharing",
+      "sacrifice",
+      "cooperation",
+      "fairness"
+    ],
+    "questions": [
+      "What gifts do I possess? How freely do I give them?",
+      "How can I practice unconditional giving?",
+      "How would things change if I became a more charitable person?"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Seven of Cups",
+    "value": "7",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c07.png",
+    "description": "",
+    "meanings": {
+      "standard": "Motivating yourself with images of future success. Using visualization to encourage progress. Taking an imaginative or creative approach to problem solving. Making dreams come true. Gleaning insight from personal visions.",
+      "reversed": "Obsessing on imaginary fears or uncertain consequences. Giving in to emotional or political terrorism. Spending more time dreaming than working. Failing to envision the possible repercussions of your choices. Being controlled by fear."
+    },
+    "keywords": [
+      "imagination",
+      "dreams",
+      "illusions",
+      "goals"
+    ],
+    "questions": [
+      "What do you want most? What do you fear most? How are these related?",
+      "How is your imagination working for you? Against you?",
+      "How might a clearer personal vision help you choose a single cup from the many available?"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Eight of Cups",
+    "value": "8",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c08.png",
+    "description": "",
+    "meanings": {
+      "standard": "Wanting something better. Blazing your own trail. Realizing there must be more to life. Leaving an unhealthy situation behind. Starting your own business. Going on a retreat. Seeking the \"still, small voice\".",
+      "reversed": "Being implacable. Finding fault. Nitpicking. Refusing to settle down. Running away from problems or confrontations. Saying, \"It's my way or the highway!\". Harping on past mistakes and disappointments. Threatening to quit as a strategy to get your way."
+    },
+    "keywords": [
+      "longing",
+      "dissatisfaction",
+      "quest",
+      "departure",
+      "withdrawal"
+    ],
+    "questions": [
+      "What do I need to leave behind once and for all?",
+      "If I left in search of more, what would I be looking for, exactly?",
+      "How might a retreat enhance my perspective?"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Nine of Cups",
+    "value": "9",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c09.png",
+    "description": "",
+    "meanings": {
+      "standard": "Being delighted with your own achievements. Recognizing your own talents and abilities. Reveling in the good things life has to offer. Indulging yourself. Relaxing and unwinding. Having everything you need in order to feel complete.",
+      "reversed": "Being smug. Satisfying yourself at the expense of others. Being selfish. Over-indulging. Avoiding work that needs to be done. Claiming achievements or skills you do not possess. Never being satisfied, no matter how much you have."
+    },
+    "keywords": [
+      "satisfaction",
+      "sensuality",
+      "luxury",
+      "pleasure"
+    ],
+    "questions": [
+      "What is true happiness?",
+      "If I could have anything, what would I have?",
+      "What is my attitude toward luxury? Do I deserve it?"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Ten of Cups",
+    "value": "10",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c10.png",
+    "description": "",
+    "meanings": {
+      "standard": "Having more than you ever dreamed. Being deeply thankful for all you've been given. Recognizing the Hand of God in the gifts the Universe brings your way. Experiencing transcendent joy. Achieving domestic bliss.",
+      "reversed": "Comparing your achievements or relationships to unrealistic fantasy standards. Experiencing emotions so intense they blunt your ability to cope with reality. Feeling overwhelmed. Envying the achievements and happiness of others."
+    },
+    "keywords": [
+      "joy",
+      "fulfillment",
+      "overwhelming emotion",
+      "giddiness"
+    ],
+    "questions": [
+      "Who gets to define what joy consists of?",
+      "What course of action is available when you feel overwhelmed?",
+      "How might vows or promises play a role in achieving a greater level of joy in your life?"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Page of Cups",
+    "value": "11",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c11.png",
+    "description": "",
+    "meanings": {
+      "standard": "Showing your emotions freely. Throwing yourself into romance. Nursing a secret crush. Indulging in romantic fantasy. Starting a new relationship. Recalling your first love. Experiencing love for the first time. Converting to a new religion.",
+      "reversed": "Mistaking a crush for true love. Reading romantic intention into innocent action. Frantically trying to impress others. Indulging in overly-sweet sentimentality. Pretending to more romantic or spiritual experience than you possess."
+    },
+    "keywords": [
+      "enthusiasm",
+      "first impressions",
+      "romanticism",
+      "superficiality"
+    ],
+    "questions": [
+      "How worried are you that others will see you as foolish or inexperienced?",
+      "To what extent can you be honest about your lack of experience in love and faith?",
+      "How can you maintain enthusiasm over time?"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Knight of Cups",
+    "value": "12",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c12.png",
+    "description": "",
+    "meanings": {
+      "standard": "Being deeply committed to a cause. Giving in to strong emotions, from excitement to depression. Acting on intuition alone. Solving problems intuitively. Believing in and basing decisions on ideals instead of realities. Bringing intuition or passion to the table.",
+      "reversed": "Becoming a fanatic. Rejecting information that suggests your intuitions are misguided. Allowing your emotions to control you. Giving in to jealousy, confrontation, and peer pressure. Hiding or ignoring intuitive insights."
+    },
+    "keywords": [
+      "fervor",
+      "zeal",
+      "moodiness",
+      "illumination"
+    ],
+    "questions": [
+      "How prone to emotional extremes are you?",
+      "What's the difference in driving passion and blind zeal?",
+      "How can you inspire others without inciting a riot?"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Queen of Cups",
+    "value": "13",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c13.png",
+    "description": "",
+    "meanings": {
+      "standard": "Allowing yourself to be moved by the plight of others. Feeling strong emotions. Possessing unusual sympathy or empathy. Trusting your feelings to guide you. Calling on psychic abilities. Achieving unity with Spirit.",
+      "reversed": "Becoming so caught up in matters of Spirit, you become detached from the world. Allowing empathy to disable you (instead of inspire action). Using psychic abilities to wield covert influence. Wallowing in emotionalism, sentiment, or self-pity."
+    },
+    "keywords": [
+      "insightfulness",
+      "spirituality",
+      "compassion",
+      "empathy",
+      "instinct"
+    ],
+    "questions": [
+      "How do I handle strong emotions?",
+      "To what extent am I a victim of my own feelings?",
+      "How can I move from reflection to action?"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "King of Cups",
+    "value": "14",
+    "arcana": "Minor Arcana",
+    "suit": "Cups",
+    "img": "c14.png",
+    "description": "",
+    "meanings": {
+      "standard": "Keeping a stiff upper lip. Being brave and clear in the face of adverse circumstances. Sharing experience as a way of comforting others. Making fair and empathetic decisions. Honoring the spirit, not just the letter, of the law.",
+      "reversed": "Allowing yourself to become rigid and unemotional. Making unfair decisions based on a hidden agenda. Making decisions without regard for their emotional impact on others. Abusing spiritual authority. Using emotional or spiritual leverage to exercise unhealthy control over others."
+    },
+    "keywords": [
+      "wisdom",
+      "diplomacy",
+      "restraint",
+      "composure"
+    ],
+    "questions": [
+      "What wise person could be consulted for good advice?",
+      "How can I make sure I'm being as objective and fair as possible?",
+      "To what extent am I capable of keeping a stiff upper lip?"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Ace of Swords",
+    "value": "1",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s01.png",
+    "description": "",
+    "meanings": {
+      "standard": "Making objective decisions. Applying logic. Reasoning your way out of a difficult situation. Solving puzzles. Thinking things through. Emphasizing the facts. Clearing your mind. Seeking clarity.",
+      "reversed": "Applying ruthless or twisted logic. Gloating over your own superior intellect. Using quick thinking to deceive or confuse others. Confusing snap judgments with quick thinking. Making decisions without thinking through consequences."
+    },
+    "keywords": [
+      "logic",
+      "objectivity",
+      "intellect",
+      "choice"
+    ],
+    "questions": [
+      "If I made my decision purely based on reason and logic, what would my decision be?",
+      "What do I think about my own problem-solving ability?",
+      "Who can supply me with the pure and simple facts?"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Two of Swords",
+    "value": "2",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s02.png",
+    "description": "",
+    "meanings": {
+      "standard": "Refusing to make a decision without getting the facts. Exploring both sides of an argument. Arguing passionately for what you believe in. Weighing the issues. Encouraging the open exchange of ideas. Discussing political or religious issues without getting \"hot under the collar\".",
+      "reversed": "Rejecting evidence that conflicts with dearly-held beliefs. Arguing with others just for the sake of doing so. Nit-picking. Putting off a decision because you're afraid to face the consequences. Preventing others from getting the information they need to make good decisions."
+    },
+    "keywords": [
+      "denial",
+      "debate",
+      "impasse",
+      "truce"
+    ],
+    "questions": [
+      "What information do I need to get past this impasse?",
+      "How can I get past being defensive and see the facts?",
+      "What viewpoints, other than my own, play a role in this situation?"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Three of Swords",
+    "value": "3",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s03.png",
+    "description": "",
+    "meanings": {
+      "standard": "Being brave enough to see things as they really are. Exercising your critical eye. Being your own best critic. Acknowledging that things don't always turn out as planned. Moving past heartbreak to embrace a painful truth.",
+      "reversed": "Wallowing in despair. Allowing yourself to be completely crushed by the thoughts, words, or deeds of another. Judging yourself too harshly. Holding yourself to an unrealistic standard of excellence. Wearing your heart on your sleeve while carrying a chip on your shoulder."
+    },
+    "keywords": [
+      "variance",
+      "difference",
+      "dissatisfaction",
+      "heartache",
+      "rejection"
+    ],
+    "questions": [
+      "How can I get past my depression?",
+      "To what extent are my emotions a matter of choice?",
+      "How can I learn from the mistakes of the past?"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Four of Swords",
+    "value": "4",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s04.png",
+    "description": "",
+    "meanings": {
+      "standard": "Thinking over your plans before putting them into action. Pausing to meditate or clear your mind. Taking time to understand someone or something before criticizing it. Resting. Occupying your thoughts with a healthy distraction.",
+      "reversed": "Failing to think things through. Mistaking procrastination for thoughtfulness. Adopting a point of view and refusing to reconsider your conclusions, even when presented with refuting evidence. Allowing chaos and whimsy to dominate your thoughts."
+    },
+    "keywords": [
+      "meditation",
+      "contemplation",
+      "perspective",
+      "mindset"
+    ],
+    "questions": [
+      "How long has it been since you deliberately took a \"time out?\"",
+      "How difficult is it for you to meditate?",
+      "What would happen if you simply refused to make a decision today?"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Five of Swords",
+    "value": "5",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s05.png",
+    "description": "",
+    "meanings": {
+      "standard": "Acting in your own best interest. Choosing to stand up for yourself. Not backing down from disagreement and discord. Taking a stand. Refusing to go along with an unethical plan. Knowing when to bend the rules.",
+      "reversed": "Taking advantage of others. Intimidating others. Acting in an unethical manner. Picking fights. Using words to goad others into violence and irrationality. Ignoring rules you've agreed to abide by. Looking out for yourself while allowing harm to come to others. Gloating over victory."
+    },
+    "keywords": [
+      "selfishness",
+      "hostility",
+      "irrationality",
+      "self-preservation"
+    ],
+    "questions": [
+      "How do I behave when I win? What does that say about me?",
+      "How can I do what's necessary without making others feel defeated?",
+      "What's the difference between selfish action and acting in my own best interest?"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Six of Swords",
+    "value": "6",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s06.png",
+    "description": "",
+    "meanings": {
+      "standard": "Making the best of a bad situation. Recovering from defeat. Resetting expectations. Making allowances for unexpected circumstances. Helping others who find themselves in dire circumstances. Changing the way you see the world. Broadening your perspective through study or travel.",
+      "reversed": "Refusing to accept that things have changed. Playing the victim. Rejecting the idea that your actions have consequences. Applying scientific criteria to matters of faith, or confusing faith with science. Believing the whole world should be like your small corner of it."
+    },
+    "keywords": [
+      "adaptation",
+      "adjustments",
+      "science",
+      "travel"
+    ],
+    "questions": [
+      "What assumptions govern my thinking?",
+      "How willing am I to lend aid to others? To request it when I need it?",
+      "How prepared am I to deal with change? With unexpected outcomes?"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Seven of Swords",
+    "value": "7",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s07.png",
+    "description": "",
+    "meanings": {
+      "standard": "Refusing to do something dishonest, even when there's no chance of ever being caught. Handling a difficult situation with finesse. Pointing out assumptions. Acting ethically in public and in private. Living a life that is beyond reproach.",
+      "reversed": "Stealing or lying. Doing whatever you can get away with, simply because you can. Looking for a way around consequences. Justifying wicked behavior by focusing on the wickedness of others. Failing to examine your own motives and prejudices."
+    },
+    "keywords": [
+      "dishonesty",
+      "presumption",
+      "sneakiness",
+      "assumptions"
+    ],
+    "questions": [
+      "What assumptions am I making?",
+      "How well-defined is my sense of ethics?",
+      "How should I respond when I know others are breaking the rules?"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Eight of Swords",
+    "value": "8",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s08.png",
+    "description": "",
+    "meanings": {
+      "standard": "Honoring limits. Respecting the rules. Deciding to go on a diet for your health's sake. Recognizing you cannot always be in control. Identifying obstacles to further progress. Refusing to think about unhealthy or unethical options. Asking for assistance.",
+      "reversed": "Feeling trapped. Being lost in a maze of rules and regulations. Giving in to despair. Playing the victim. Allowing others to dictate what you can and cannot do. Being rendered helpless. Having very few options. Failing to look for a way out."
+    },
+    "keywords": [
+      "restriction",
+      "limitation",
+      "confinement",
+      "helplessness"
+    ],
+    "questions": [
+      "Who's empowered to cut through the red tape?",
+      "What, exactly, are the obstacles? What resources, exactly, are needed to move them?",
+      "To what extent is your powerlessness a matter of attitude?"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Nine of Swords",
+    "value": "9",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s09.png",
+    "description": "",
+    "meanings": {
+      "standard": "Refusing to worry about what you cannot control. Rejecting anxiety. Judging your own performance with kindness and gentleness. Using meditation to quiet a troubled mind. Confronting nightmares and fears. Drawing a conclusion and putting an issue out of your mind.",
+      "reversed": "Torturing yourself with regrets. Second-guessing your every move. Beating yourself up for your mistakes. Depression. Obsessing on errors and overlooked details. Refusing to handle stress in healthy ways. Ruining your ability to appreciate the present by dwelling on the past. Debating irreversible decisions."
+    },
+    "keywords": [
+      "remorse",
+      "worry",
+      "distraught",
+      "conclusion"
+    ],
+    "questions": [
+      "What role does worry play in your current situation?",
+      "To what other ends might you devote the energy you're giving to anxiety?",
+      "How can you know when it's time to stop thinking and start acting?"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Ten of Swords",
+    "value": "10",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s10.png",
+    "description": "",
+    "meanings": {
+      "standard": "Seeing the signs that you've reached your limits. Paying attention to what your body is trying to tell you. Giving in to the need for rest and renewal. Acknowledging that you've hit bottom. Committing to a turnaround. Knowing the worst is over.",
+      "reversed": "Accepting defeat prematurely. Driving yourself to total exhaustion, especially mentally. Experiencing a mental breakdown. Obsessing on a problem to the breaking point. Giving up. Refusing to move from thought to action. Deeply unhealthy thoughts."
+    },
+    "keywords": [
+      "exhaustion",
+      "ruin",
+      "disaster",
+      "stamina",
+      "obsession"
+    ],
+    "questions": [
+      "What are the signs that the time for debate is over?",
+      "How can you tell when interest has given way to obsession?",
+      "When your own limits are reached, where can you turn for aid?"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Page of Swords",
+    "value": "11",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s11.png",
+    "description": "",
+    "meanings": {
+      "standard": "Pursuing a course of study. Asking good questions. Investing time in study and practice. Doing research. Making a habit of learning new things. Starting an investigation. Outlining what you need to know. Finding a mentor or teacher.",
+      "reversed": "Pretending to knowledge or sophistication you do not possess. Cheating on an exam. Feigning interest as a way of gaining favor. Considering only the evidence that supports conclusions you've already drawn. Rejecting the wise counsel of experienced teachers."
+    },
+    "keywords": [
+      "student",
+      "apprentice",
+      "scholarship",
+      "information"
+    ],
+    "questions": [
+      "How comfortable are you with revealing your own ignorance?",
+      "What are the marks of a good student?",
+      "To what extent are you open to new information?"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Knight of Swords",
+    "value": "12",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s12.png",
+    "description": "",
+    "meanings": {
+      "standard": "Speaking your mind. Making your opinions known. Offering constructive criticism. Sharing your knowledge. Making insightful observations. Pinpointing the problem. Clarifying what others have said. Giving clear direction to others. Uncovering the truth.",
+      "reversed": "Stating your opinions as fact. Picking fights. Starting arguments. Using clever insults to undermine the confidence of others. Tossing reason out the window. Speaking without taking the feelings of others into account. Going on a witch hunt. Distorting evidence."
+    },
+    "keywords": [
+      "bluntness",
+      "intelligence",
+      "incisiveness",
+      "investigation"
+    ],
+    "questions": [
+      "What do I really need to know?",
+      "To what extent have I investigated the facts behind my situation?",
+      "How can I share what I know without alienating others?"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Queen of Swords",
+    "value": "13",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s13.png",
+    "description": "",
+    "meanings": {
+      "standard": "Exercising tact or using diplomacy. Defusing a tense situation. Knowing what to say and how to say it. Making others feel comfortable and confident. Bringing out the best in everyone. Having a way with words. Telling jokes. Possessing a knack for music, math, art, or science.",
+      "reversed": "Knowing exactly what to say to destroy another person. Withholding critical information. Using a barbed tongue to upset others. Employing sarcasm. Mimicking others unkindly. Making light of the less fortunate. Being disrespectful. Failing to use the talent you've been given."
+    },
+    "keywords": [
+      "grace",
+      "skill",
+      "wit",
+      "charm",
+      "aptitude"
+    ],
+    "questions": [
+      "What do I have a knack for? How might my special gift prove useful now?",
+      "To what extent am I capable of saying what needs to be said?",
+      "What is the best possible way to say what I want to say?"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "King of Swords",
+    "value": "14",
+    "arcana": "Minor Arcana",
+    "suit": "Swords",
+    "img": "s14.png",
+    "description": "",
+    "meanings": {
+      "standard": "Expressing yourself with firmness and authority. Rendering a final decision. Consulting an expert. Calling in advisors and consultants. Coming to a final conclusion. Reaching a beneficial agreement based on sound information.",
+      "reversed": "Insisting on having the last word. Flaunting your intellectual capability. Talking \"over the heads\" of others. Waffling on an important decision. Constantly changing your mind. Refusing to make choices that are in your own best interest. Wishing in vain you could take back what's been said."
+    },
+    "keywords": [
+      "genius",
+      "expertise",
+      "decision",
+      "verdict"
+    ],
+    "questions": [
+      "What would your decision be if you had to render a binding verdict right now?",
+      "How comfortable are you saying exactly what you mean? How often do you temper what you have to say for fear of offending others?",
+      "If you were to ask others what is my area of expertise, what would they say?"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Ace of Wands",
+    "value": "1",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w01.png",
+    "description": "",
+    "meanings": {
+      "standard": "Being inspired. Identifying an important goal. Being given the opportunity to do whatever you want to do. Giving or receiving direction. Seeing a solution. Creating something new. Being aroused, sexually or creatively.",
+      "reversed": "Failing to take advantage of a great opportunity. Being ineffectual or lazy. Making an inadequate effort. Working toward a goal, but lacking the resources or initiative to achieve success. Setting inappropriate goals. Failing to take a stand."
+    },
+    "keywords": [
+      "desire",
+      "inspiration",
+      "vision",
+      "creation",
+      "invention"
+    ],
+    "questions": [
+      "What do I really want, more than anything else?",
+      "What happens if I let this opportunity pass me by?",
+      "How clearly have I defined my directions, values, and goals?"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Two of Wands",
+    "value": "2",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w02.png",
+    "description": "",
+    "meanings": {
+      "standard": "Having a choice. Offering or being offered an option. Seeing the value of another person's approach. Understanding there's more than one way to \"skin a cat\". Successfully doing more than one thing at a time. Being empowered to make a choice.",
+      "reversed": "Misrepresenting your intentions. Doing one thing while desiring another. Changing course mid-stream for no good reason. Refusing to change your goal even when pursuing it no longer makes sense. Disregarding the input of others."
+    },
+    "keywords": [
+      "conflict",
+      "decision",
+      "option",
+      "individuality"
+    ],
+    "questions": [
+      "In a conflict, how do you decide who wins?",
+      "What values govern your decision-making process?",
+      "What choice will you make if you make no choice at all?"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Three of Wands",
+    "value": "3",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w03.png",
+    "description": "",
+    "meanings": {
+      "standard": "Putting a plan into motion. Taking that critical first step. Making good things happen. Going beyond your limits. Blazing new trails. Hitting the ground running. Seeing your plans come to fruition.",
+      "reversed": "Procrastinating. Knowing what to do, but refusing to do it. Launching a project without a clear definition of who should do what. Rejecting an opportunity to try something new. Failing to finish what you start."
+    },
+    "keywords": [
+      "implementation",
+      "action",
+      "exploration"
+    ],
+    "questions": [
+      "How can you make a habit of breaking your habits?",
+      "How can you be a decisive leader in this circumstance?",
+      "What's your action plan for the next week, month, year, or decade?"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Four of Wands",
+    "value": "4",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w04.png",
+    "description": "",
+    "meanings": {
+      "standard": "Sharing in a great celebration. Sharing in a communal sense of achievement and success. Preparing for a party. Working together toward a common goal. Giving or winning awards.",
+      "reversed": "Keeping your nose to the grindstone. Recognizing good work by demanding more work. Failing to share in a group celebration. Allowing sour grapes to poison your moment in the sun. Refusing to do your part."
+    },
+    "keywords": [
+      "celebration",
+      "jubilation",
+      "community",
+      "teamwork",
+      "completion"
+    ],
+    "questions": [
+      "To what extent am I doing my part?",
+      "What kind of recognition would be most meaningful?",
+      "How might a celebration now impact community morale?"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Five of Wands",
+    "value": "5",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w05.png",
+    "description": "",
+    "meanings": {
+      "standard": "Calmly expressing a dissenting opinion. Allowing someone to use his or her own methods to get a job done. Opening the floor for discussion or debate. Comparing progress made so far to standards set earlier.",
+      "reversed": "Berating others for their ridiculous opinions. Picking fights. Offering destructive criticism. Baiting people with barbed remarks. Disrupting progress with an endless stream of pointless objections."
+    },
+    "keywords": [
+      "confrontation",
+      "disruption",
+      "distinction",
+      "objection",
+      "strife"
+    ],
+    "questions": [
+      "To what extent is your current issue worth fighting for?",
+      "What alternatives are there to outright conflict?",
+      "What happens in a \"fair fight?\" How can you keep this fight fair?"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Six of Wands",
+    "value": "6",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w06.png",
+    "description": "",
+    "meanings": {
+      "standard": "Outperforming your peers. Winning a competition. Being recognized as a capable person. Having your \"moment in the spotlight\". Being cheered on by the crowd. Getting an award. Earning the admiration of others. Telling someone, \"Good job!\"",
+      "reversed": "Being a bad winner. Allowing your achievements to inflate your ego. Looking down on people who seem less capable. Craving to be the center of attention. Giving or receiving insincere praise. Envying the achievements of others."
+    },
+    "keywords": [
+      "victory",
+      "achievement",
+      "success",
+      "triumph"
+    ],
+    "questions": [
+      "What kind of recognition do I crave? Why?",
+      "How freely do I praise the achievements of others?",
+      "What happens when the parade is over?"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Seven of Wands",
+    "value": "7",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w07.png",
+    "description": "",
+    "meanings": {
+      "standard": "Refusing to be silenced through fear or intimidation. Continuing a fight against all odds. Being fierce. Defending yourself against physical and emotional attacks. Refusing to put up with abuse. Clinging to your values despite all pressure to abandon them.",
+      "reversed": "Having a chip on your shoulder. Taking unnecessary risks as a means of proving your fearlessness. Looking for an opportunity to take offense. Responding to constructive criticism with defensiveness. Refusing to stand up for yourself and your beliefs."
+    },
+    "keywords": [
+      "bravery",
+      "resolve",
+      "determination"
+    ],
+    "questions": [
+      "When do you feel most threatened? When do you get defensive?",
+      "How capable are you of defending yourself?",
+      "What kinds of beliefs are worth defending?"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Eight of Wands",
+    "value": "8",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w08.png",
+    "description": "",
+    "meanings": {
+      "standard": "Taking swift action. Moving forward with a plan as quickly as possible. Energizing yourself. Adapting to sudden changes. Taking setbacks in stride. Embracing the idea that nothing stays the same forever. Reacting quickly and appropriately to unforeseen problems.",
+      "reversed": "Giving in to panic. Running in circles and screaming. Insisting things must always stay the same. Stirring the pot just to see what will happen. Rushing others. Refusing to re-evaluate a schedule or program, even when it's clearly no longer appropriate."
+    },
+    "keywords": [
+      "speed",
+      "swiftness",
+      "responsiveness",
+      "change"
+    ],
+    "questions": [
+      "How quickly to you adapt to change?",
+      "What would your response be to overwhelming, sudden change?",
+      "What changes are on your horizon? How well have you prepared for them?"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Nine of Wands",
+    "value": "9",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w09.png",
+    "description": "",
+    "meanings": {
+      "standard": "Sticking with it for the duration. Fulfilling your promises and obligations. Bearing up under incredible duress. Dragging yourself across the finish line. Picking yourself up by your own bootstraps. Refusing to quit. Going as far as you can go and being satisfied with your performance.",
+      "reversed": "Making yourself a martyr. Abandoning your post. Giving up at the first sign of opposition. Being prevented from fulfilling an obligation. Failing to be dependable. Refusing to let something go that needs to be released. Beating a dead horse."
+    },
+    "keywords": [
+      "toughness",
+      "persistence",
+      "stamina",
+      "loyalty",
+      "release"
+    ],
+    "questions": [
+      "How do you cope when things get really tough?",
+      "When you get low, what encourages you to go on?",
+      "At what point should you be able to let this situation go?"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Ten of Wands",
+    "value": "10",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w10.png",
+    "description": "",
+    "meanings": {
+      "standard": "Holding your own in extreme circumstances. Helping others carry their burdens. Coming to the aid of the oppressed. Knowing and being honest about your own limits. Recognizing when you are not well-suited for a particular task.",
+      "reversed": "Taking on more work than you know you can handle. Refusing to say \"No\" when you're already overloaded. Making a habit of working overtime. Shielding others from facing the consequences of their own poor judgment. Over-extending yourself on a regular basis."
+    },
+    "keywords": [
+      "exhaustion",
+      "resistance",
+      "burden",
+      "oppression"
+    ],
+    "questions": [
+      "How will you know when you reach the end of your rope?",
+      "How easily do you say no to new projects and requests?",
+      "What projects could you delegate...or eliminate?"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Page of Wands",
+    "value": "11",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w11.png",
+    "description": "",
+    "meanings": {
+      "standard": "Leaping at a new opportunity. Being a cheerleader or ardent advocate for your cause. Being a True Believer. Taking first steps toward independence. Trusting in your own abilities. Asking for feedback.",
+      "reversed": "Basing your entire self-image on what others think. Seizing every new idea that comes your way without question. Habitually discounting input or feedback from others. Being so eager to \"do it yourself\" that you hinder your own progress."
+    },
+    "keywords": [
+      "enthusiasm",
+      "eagerness",
+      "confidence",
+      "validation",
+      "affirmation"
+    ],
+    "questions": [
+      "How easily do you admit your own inexperience?",
+      "How can you be a better student or employee?",
+      "What qualities would make a total beginner's voyage of discovery easier?"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Knight of Wands",
+    "value": "12",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w12.png",
+    "description": "",
+    "meanings": {
+      "standard": "Charging ahead. Making rapid progress. Refusing limits. Dazzling those around you with your wit and charm. Convincing others of your right to leadership. Convincing others to follow you. Being a catalyst for change.",
+      "reversed": "Blundering forward with inadequate skill or information. Running roughshod over the feelings of others. Using sex appeal to manipulate others. Forcing your leadership or ideology on others. Beginning many projects without finishing any."
+    },
+    "keywords": [
+      "boldness",
+      "bravado",
+      "passion",
+      "persuasion",
+      "advocacy"
+    ],
+    "questions": [
+      "To what extent have you defined your ultimate goal?",
+      "What's the fastest way to get the job done? Is this necessarily the best way?",
+      "How long has it been since you looked back to see if others really are following your lead?"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Queen of Wands",
+    "value": "13",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w13.png",
+    "description": "",
+    "meanings": {
+      "standard": "Paying close attention. Helping others focus on the issue at hand. Getting everyone to work together. Identifying common ground. Bringing people together, despite their differences. Using reverse psychology.",
+      "reversed": "Being distracted, or using your charms or skills to distract others from the goal. Calling attention to yourself with negative or unhealthy behaviors. Disrupting group activities as a means of feeding your own ego."
+    },
+    "keywords": [
+      "attention",
+      "attraction",
+      "unification",
+      "collaboration"
+    ],
+    "questions": [
+      "How attentive am I?",
+      "How can I draw people's attention to what we have in common?",
+      "To what extent am I able to convince people to do what I want them to do?"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "King of Wands",
+    "value": "14",
+    "arcana": "Minor Arcana",
+    "suit": "Wands",
+    "img": "w14.png",
+    "description": "",
+    "meanings": {
+      "standard": "Putting old things together in new and exciting ways. Coming up with unexpected solutions. Using your experience to solve puzzles and problems. Doing what you set out to do. Directing the efforts of others.",
+      "reversed": "Using your creativity to get out of honest work. Investing great energy in avoiding responsibility. Boasting about achievements without putting your expertise to practical use. Lording it over others."
+    },
+    "keywords": [
+      "creativity",
+      "ingenuity",
+      "achievement",
+      "direction"
+    ],
+    "questions": [
+      "How confident a leader am I?",
+      "How can I project more confidence?",
+      "How can I offer my expertise in ways that inspire others to follow me?"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Ace of Pentacles",
+    "value": "1",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p01.png",
+    "description": "",
+    "meanings": {
+      "standard": "Outlining a plan for achieving prosperity. Becoming aware of opportunities to improve income or health. Realizing you have everything you need. Appreciating everything the Universe has given you. Receiving the perfect gift at the perfect time.",
+      "reversed": "Indulging in relentless consumerism. Wanting more, no matter how much you have. Obsessing on your account balance. Suffering from hypochondria. Consuming blessings without expressing gratitude. Taking what you want without concern for the needs of others."
+    },
+    "keywords": [
+      "health",
+      "wealth",
+      "practicality",
+      "receiving"
+    ],
+    "questions": [
+      "If I made my decision based solely on practical concerns, what would my decision be?",
+      "What resources are available to me?",
+      "What will be the physical and financial impact of my decisions?"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Two of Pentacles",
+    "value": "2",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p02.png",
+    "description": "",
+    "meanings": {
+      "standard": "Weighing options. Comparing prices. Determining the value of one option over another. Juggling resources to make ends meet. Making difficult choices based on what's best for your body or your bankbook. Looking at the bottom line. Asking for a second opinion on health issues.",
+      "reversed": "Engaging in endless price comparison. Putting off a buying decision for fear of finding a slightly better value later on. Buying something without regard for value. Breaking your budget with unnecessary expenses. Engaging in behavior with no regard for how your body or bankbook will be impacted."
+    },
+    "keywords": [
+      "evaluation",
+      "decision",
+      "budgeting",
+      "diagnosis"
+    ],
+    "questions": [
+      "What values govern my decisions?",
+      "How willing am I to sacrifice a little pleasure now in order to have more pleasure later on?",
+      "Given my current situation, which course of action will give me more of what I really need?"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Three of Pentacles",
+    "value": "3",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p03.png",
+    "description": "",
+    "meanings": {
+      "standard": "Finishing a project. Setting and meeting standards. Performing according to specifications. Making something others value. Creating something new. Doing your part in a group project. Delivering exactly what others have asked for.",
+      "reversed": "Pandering to the tastes of others. Failing to deliver what you've promised. Not delivering your best work unless closely supervised. Ignoring or breaking agreements with those who have invested in you. Refusing to do your part. Failing to abide by a clearly-outlined agreement with yourself or others."
+    },
+    "keywords": [
+      "expression",
+      "production",
+      "work",
+      "contribution"
+    ],
+    "questions": [
+      "How can I get more done?",
+      "What's expected of me? How large a role do I play in controlling those expectations?",
+      "What's been agreed to? How well has that agreement been followed?"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Four of Pentacles",
+    "value": "4",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p04.png",
+    "description": "",
+    "meanings": {
+      "standard": "Saving for a rainy day. Fasting as part of a spiritual practice. Dieting in an effort to improve your body. Abstaining from sex as a way of honoring a spiritual tradition or personal promise. Being financially conservative. Establishing a trust fund. Opening a savings account.",
+      "reversed": "Being stingy. Refusing to spend money that needs to be spent. Withholding sex from your partner. Taking care of your own needs exclusively, without regard for the needs of others. Spending a dollar to save a penny. Failing to be a good manager of the blessings you've been given."
+    },
+    "keywords": [
+      "protection",
+      "conservation",
+      "preservation",
+      "safety"
+    ],
+    "questions": [
+      "What factors determine how conservative or generous you are?",
+      "What kinds of things must be preserved at all costs?",
+      "When is greediness or stinginess a good trait to have? When might generosity work against you?"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Five of Pentacles",
+    "value": "5",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p05.png",
+    "description": "",
+    "meanings": {
+      "standard": "Recognizing your needs and taking action to fulfill them. Doing as much as you can do with what little you have. Admitting you need help. Embracing the aid that comes your way. Focusing on what you have versus what you don't. Looking for the light at the end of the tunnel.",
+      "reversed": "Exaggerating your financial or physical needs. Adopting a poverty mentality. Refusing to support yourself. Refusing offers of support. Playing the martyr. Turning down opportunities to improve your health or finances. Wallowing in misery."
+    },
+    "keywords": [
+      "poverty",
+      "destitution",
+      "need",
+      "crisis"
+    ],
+    "questions": [
+      "What critical resources do I lack?",
+      "What people or groups would come to my aid if I asked?",
+      "How might an impoverished spirit be impacting my physical or financial condition?"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Six of Pentacles",
+    "value": "6",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p06.png",
+    "description": "",
+    "meanings": {
+      "standard": "Giving time, money, or effort to a charity. Taking part in a group effort. Lending your resources to others without expecting anything in return. Making sure everyone is treated equally. Working together toward a common goal. Redistributing wealth, time, or attention. Tithing. Sharing credit for your success.",
+      "reversed": "Making a loan as a means of gaining control over someone. Using charitable acts to draw attention to yourself. Dividing work or resources unfairly. Failing to do your part in a group effort. Ignoring obligations and commitments."
+    },
+    "keywords": [
+      "charity",
+      "fairness",
+      "cooperation",
+      "sharing"
+    ],
+    "questions": [
+      "How do I feel about charity? About giving it? About receiving it?",
+      "How can I know if I'm treating others fairly?",
+      "What could I give that no one else can?"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Seven of Pentacles",
+    "value": "7",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p07.png",
+    "description": "",
+    "meanings": {
+      "standard": "Measuring progress toward your goal. Looking at results with an eye toward improving performance. Asking, \"How happy am I?\" Coming up with ideas for improving your health or prosperity. Deciding it's time for a change. Expressing an honest opinion.",
+      "reversed": "Becoming distracted by melancholy thoughts. Longing for \"the good old days\". Beating yourself up over lost opportunities. Judging your own work harshly. Holding others to inappropriate standards. Refusing to take part in a project, then whining about the quality of the outcome."
+    },
+    "keywords": [
+      "assessment",
+      "evaluation",
+      "re-evaluation",
+      "reflection"
+    ],
+    "questions": [
+      "To what extent have I fulfilled my own expectations?",
+      "What are the terms of success?",
+      "How can I be happier with the progress I've made?"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Eight of Pentacles",
+    "value": "8",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p08.png",
+    "description": "",
+    "meanings": {
+      "standard": "Doing your best. Bringing enthusiasm and zeal to your work. Making an effort to be the best you can be. Finding the work that is right for you. Taking care of the small details. Becoming a finely skilled craftsperson. Building something with your hands. Making a handmade gift.",
+      "reversed": "Working yourself to death. Doing a half-hearted or sloppy job. Continuing in a job you hate. Buying thoughtless gifts. Producing work with shoddy craftsmanship. Rushing through your work. Rejecting opportunities to learn more about your craft."
+    },
+    "keywords": [
+      "effort",
+      "work diligence",
+      "skill"
+    ],
+    "questions": [
+      "How long has it been since you were \"lost in your work?\"",
+      "How can you improve your level of dedication and focus?",
+      "What work do you do best? What about that work appeals to you?"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Nine of Pentacles",
+    "value": "9",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p09.png",
+    "description": "",
+    "meanings": {
+      "standard": "Investing time in learning or teaching a difficult task. Restraining yourself from physical or financial extremes. Making sacrifices as a way of achieving larger goals. Breaking a complex task down into simple steps. Wanting what you have. Knowing the difference between needs and wants.",
+      "reversed": "Being assigned to a task without being trained to perform it. Pursuing a position for which you are not qualified. Disregarding requirements. Refusing to dedicate adequate time or attention when learning about something or someone new. Always craving more."
+    },
+    "keywords": [
+      "training",
+      "discipline",
+      "confidence",
+      "enough"
+    ],
+    "questions": [
+      "If you could not have what you want, how would you make do?",
+      "Could you make a complex task easier by breaking it down into smaller steps?",
+      "How patient are you during the learning process? With yourself? With others?"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Ten of Pentacles",
+    "value": "10",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p10.png",
+    "description": "",
+    "meanings": {
+      "standard": "Celebrating your physical and financial blessings. Realizing how lucky or how blessed you are. Being satisfied with your physical and financial achievements. Taking best advantage of \"times of plenty\". Enjoying a feast. Showering friends or family with gifts.",
+      "reversed": "Spending all of your money on extravagant gifts and possessions. Trying too hard to impress others with your wealth or physique. Giving an inappropriately expensive gift as a means of currying favor. Obsessing on matters of weight, health, or finance. Always asking, \"What's in it for me?\""
+    },
+    "keywords": [
+      "wealth",
+      "abundance",
+      "acquisition",
+      "greed"
+    ],
+    "questions": [
+      "How much stuff do I really need?",
+      "How do I feel about wealth and abundance? How do I define these terms?",
+      "How might shedding some possessions open room for growth?"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Page of Pentacles",
+    "value": "11",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p11.png",
+    "description": "",
+    "meanings": {
+      "standard": "Learning the value of a dollar. Starting a savings plan. Taking the first steps toward getting out of debt. Learning new physical tasks. Discovering your sexuality. Launching a diet, a weight-lifting program, or a health-related effort. Learning by doing.",
+      "reversed": "Trying to appear healthier or wealthier than you really are. Spending money carelessly. Living strictly for today, with no thought of tomorrow. Possessing immature attitudes toward sex and sexuality. Using wealth or beauty as an excuse for not having to learn and grow."
+    },
+    "keywords": [
+      "practicality",
+      "prosperity",
+      "learning",
+      "growth",
+      "adolescence"
+    ],
+    "questions": [
+      "How can you get more financial or sexual experience without risking your livelihood or health?",
+      "How might hands-on learning play a role in your situation?",
+      "What's the most practical choice you could make?"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Knight of Pentacles",
+    "value": "12",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p12.png",
+    "description": "",
+    "meanings": {
+      "standard": "Spending money wisely. Saving for a rainy day. Paying close attention to physical or financial details. Knowing where every dollar goes. Having safe sex. Preferring facts to \"good feelings\". Finding creative ways to \"make do\" with resources on hand. Completing a new invention.",
+      "reversed": "Throwing caution to the four winds. Spending without regard for consequence. Spending on luxury when necessities are lacking. Escaping stress by spending money. Obsessing on tiny physical or financial details. Perpetually chasing after some new bauble. Copying another's work and claiming it as your own."
+    },
+    "keywords": [
+      "caution",
+      "focus",
+      "realism",
+      "invention"
+    ],
+    "questions": [
+      "What's the difference between caution and fear?",
+      "How can I evaluate the practicality of my own ideas and methods?",
+      "How realistic are my goals?"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Queen of Pentacles",
+    "value": "13",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p13.png",
+    "description": "",
+    "meanings": {
+      "standard": "Appreciating fine food, fine wine, beautiful art, beautiful bodies, or any of the better things in life. Reveling in healthy sexuality. Treating yourself. Splurging on the occasional \"nice to have\" item. Rewarding someone with compensation above and beyond expectations. Having it all.",
+      "reversed": "Indulging in gluttony or greediness. Becoming insatiable. Blunting the impact of treats by indulging in them too often. Providing physical comfort without providing for emotional needs. Allowing a feeling of entitlement to distort your gratitude for what you're given."
+    },
+    "keywords": [
+      "luxury",
+      "comfort",
+      "resourcefulness",
+      "generosity",
+      "prosperity"
+    ],
+    "questions": [
+      "How do I define luxury?",
+      "To what extent am I capable of reveling in sensual pleasure?",
+      "What would I have to give up in order to have it all?"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "King of Pentacles",
+    "value": "14",
+    "arcana": "Minor Arcana",
+    "suit": "Pentacles",
+    "img": "p14.png",
+    "description": "",
+    "meanings": {
+      "standard": "Becoming debt-free. Having more than enough to get by. Making contributions to a savings plan. Taking a new job with an eye toward advancing your career. Buying life or health insurance. Being confident in the bedroom. Taking on the role of enforcer when called upon to do so.",
+      "reversed": "Becoming so conservative you resist all change on principle alone. Ignoring innovations in the name of preserving tradition. Being smug or cocky. Becoming ruthlessly dedicated to profit or pleasure. Being sexually selfish. Bossing others around, especially when you're not empowered to do so."
+    },
+    "keywords": [
+      "stability",
+      "dependability",
+      "confidence",
+      "intervention"
+    ],
+    "questions": [
+      "How can you handle expenses with greater confidence and maturity?",
+      "How dependable are you? How dependable would others say you are?",
+      "To what extent is a conservative viewpoint valuable? At what point does it become more of a burden than a blessing?"
+    ]
+  }
+]}
